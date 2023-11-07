@@ -7,7 +7,7 @@ This repository contains a backup of  SQL Server Northwind database, including i
 
 ### Backup
 
-- TDownload the database bak file `Northwind.bak`.
+- Download the database bak file `Northwind.bak`.
 - For restoration follow instructions below.
 
 ### Prerequisites
